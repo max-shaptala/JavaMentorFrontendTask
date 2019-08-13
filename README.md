@@ -1,2 +1,4 @@
 # JavaMentorFrontendTask
-Задание на курс обучение на Front-end разработчика от Java Mentor
+
+[Задание](https://jm-program.github.io/frontend-task) на курс обучение на Front-end разработчика от Java Mentor
+
